@@ -1,0 +1,8 @@
+[
+    {
+    "name": "node-swagger-tookit-release-env",
+    "script": "./app.js",
+    "exec_mode": "cluster_mode",
+    "instances": 2
+    }
+]
